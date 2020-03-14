@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rootoozoo.wijngaantrouwen.nl/sitemap.xml
